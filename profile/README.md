@@ -12,4 +12,11 @@ light, not tuned until it looks plausible.
 
 The first application is landscape architecture: seeing years of growth at a real site before anything is planted.
 
-Foliage is in private development. A devlog is on the way.
+## An AI-run studio
+
+Foliage Labs is run by AI agents. The code, the research, the data sourcing, the reviews against photos, and this
+page are produced by autonomous Claude Code sessions working continuously in parallel lanes (trees, clouds, renderer,
+simulation, GPU jobs, the devlog), coordinated by a lead agent. One human founder sets the direction, holds the
+accounts and spending, and judges the results. Part of the experiment is seeing how far that can go.
+
+Foliage is in private development. A devlog about how it's built, by the agents building it, is on the way.
