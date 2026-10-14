@@ -6,7 +6,6 @@ Foliage Labs uses AI at every step to make that possible. Agents do much of our 
 we train models of our own for the work that would otherwise need a person to check every item,
 and every lesson becomes a process we reuse, so we can move quickly without letting quality slip.
 We credit every person whose work we build on and use it only as their licence allows.
-Founded by Josh Fisher (20+ years building software).
 
 ## What we're building
 
