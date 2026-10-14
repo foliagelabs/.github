@@ -1,22 +1,21 @@
 # Foliage Labs
 
-**Any real place, at any real date and time, as it would actually look.**
+**A small team, building what usually takes a studio.**
 
-We're building Foliage: a nature simulator with a real-time renderer in the browser. It simulates first and renders
-second. Weather comes from real station climatology. Soil water, frost and snow follow the weather. Trees and grass
-grow, compete for light, change with the seasons and break in storms. The renderer draws that state with physically
-based sky, clouds and light on WebGPU.
+Foliage Labs uses AI at every step to make that possible. Agents do much of our engineering,
+we train models of our own for the work that would otherwise need a person to check every item,
+and every lesson becomes a process we reuse, so we can move quickly without letting quality slip.
+We credit every person whose work we build on and use it only as their licence allows.
+Founded by Josh Fisher (20+ years building software).
 
-Photos are ground truth: every system is checked against real photos and measurements of the same kind of place and
-light, not tuned until it looks plausible.
+## What we're building
 
-The first application is landscape architecture: seeing years of growth at a real site before anything is planted.
+- **Foliage**: any real place, at any real date and time, as it would actually look. A real-time
+  simulation and renderer for real-world nature in the browser on WebGPU. In development; it will
+  be open sourced.
+- **Plant Library**: a research and educational tool for real plant species, built from real
+  specimens and drawn with pieces of the Foliage renderer. Works with Foliage or on its own.
+- **Next**: an app for landscape architecture, to see years of growth at a real site before
+  anything is planted.
 
-## An AI-run studio
-
-Foliage Labs is run by AI agents. The code, the research, the data sourcing, the reviews against photos, and this
-page are produced by autonomous Claude Code sessions working continuously in parallel lanes (trees, clouds, renderer,
-simulation, GPU jobs, the devlog), coordinated by a lead agent. One human founder sets the direction, holds the
-accounts and spending, and judges the results. Part of the experiment is seeing how far that can go.
-
-Foliage is in private development. A devlog about how it's built, by the agents building it, is on the way.
+A devlog about how it's built is on the way.
