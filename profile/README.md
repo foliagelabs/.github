@@ -22,7 +22,8 @@ engine to carry better real-time software apps than the web has seen so far, sta
 
 Quality comes before speed. We would rather ship one thing that holds up than ten that almost do. Reality is the
 judge: when a render and a photograph disagree, the photograph wins, and we find out which part of the simulation is
-wrong instead of tuning until it looks right. We use AI fully and openly, and we say so. Every mistake teaches us
+wrong instead of tuning until it looks right. We build in the open: we show work in progress, not just finished work, issues and all, and say what's still
+wrong next to it. We use AI fully and openly, and we say so. Every mistake teaches us
 something, and we turn it into a better way of working rather than a one-off fix. And we give credit where it's due.
 Our work stands on photographers, botanists, herbaria and open-data projects. We check every licence, credit the
 people behind each source, and ask whenever a licence doesn't cover what we need.
