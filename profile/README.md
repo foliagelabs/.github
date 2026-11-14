@@ -1,6 +1,6 @@
 # Foliage Labs
 
-What we're attempting would normally take a large studio years. We simulate real places and how their plants grow
+A small team that builds with AI at every step. We simulate real places and how their plants grow
 over decades. Our renderer has to match photographs of those places, not just look plausible. And we're building a
 library of real species from real specimens: leaves cut from herbarium sheets, bark from field photos, measured
 traits from botanical data.
